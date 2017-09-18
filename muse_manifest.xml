@@ -1,13 +1,13 @@
-<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="index.html" resolutions="1x" timestamp="1505557321630">
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="index.html" resolutions="1x" timestamp="1505712184563">
   <folder name="css">
-    <file name="site_global.css" crc="473600441"/>
-    <file name="master_a-master.css" crc="153384928" ref="trang-cá-nhân:index:bài-viết-mẫu:404:thanh-toán:xem-chữ-ký"/>
-    <file name="trang-c_-nh_n.css" crc="287816115" ref="trang-cá-nhân"/>
-    <file name="index.css" crc="3866873405" ref="index"/>
-    <file name="b_i-vi_t-m_u.css" crc="4061914111" ref="bài-viết-mẫu"/>
-    <file name="404.css" crc="427278282" ref="404"/>
-    <file name="thanh-to_n.css" crc="4193360411" ref="thanh-toán"/>
-    <file name="xem-ch_-k_.css" crc="342518482" ref="xem-chữ-ký"/>
+    <file name="site_global.css" crc="499989191"/>
+    <file name="master_a-master.css" crc="3921485974" ref="thanh-toán:xem-chữ-ký:index:bài-viết-mẫu:trang-cá-nhân:404"/>
+    <file name="thanh-to_n.css" crc="81386236" ref="thanh-toán"/>
+    <file name="xem-ch_-k_.css" crc="272768917" ref="xem-chữ-ký"/>
+    <file name="index.css" crc="341146667" ref="index"/>
+    <file name="b_i-vi_t-m_u.css" crc="100058647" ref="bài-viết-mẫu"/>
+    <file name="trang-c_-nh_n.css" crc="200802286" ref="trang-cá-nhân"/>
+    <file name="404.css" crc="320379633" ref="404"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>xem-chữ-ký:phone>404:phone>bài-viết-mẫu:index:404:xem-chữ-ký:bài-viết-mẫu:trang-cá-nhân:thanh-toán"/>
@@ -26,9 +26,8 @@
     <file name="touchswipe.js" crc="4200445185" ref="phone>xem-chữ-ký:xem-chữ-ký:trang-cá-nhân:thanh-toán"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="4273574922" ref="phone>index"/>
+    <file name="favicon.ico" crc="389977244" ref="phone>index:index"/>
     <file name="xem chu ky_small.png" crc="3830108568" ref="phone>index:index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="search128px.png" crc="4227297812" ref="phone>index">
@@ -37,10 +36,8 @@
     </file>
     <file name="q7u0mf961m9z.jpg" crc="3764549847" ref="phone>index:phone>bài-viết-mẫu:index:bài-viết-mẫu:trang-cá-nhân">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+      <caption webpage="bài-viết-mẫu" alt=""/>
       <caption webpage="trang-cá-nhân" alt=""/>
-      <caption webpage="bài-viết-mẫu" alt=""/>
-      <caption webpage="bài-viết-mẫu" alt=""/>
     </file>
     <file name="thumb1-u55159-fr.jpg" crc="509076752" ref="phone>index:phone>bài-viết-mẫu"/>
     <file name="thumb2-u55160-fr.jpg" crc="58035908" ref="phone>index:phone>bài-viết-mẫu"/>
@@ -55,33 +52,13 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="bài-viết-mẫu" alt=""/>
       <caption webpage="bài-viết-mẫu" alt=""/>
       <caption webpage="bài-viết-mẫu" alt=""/>
       <caption webpage="bài-viết-mẫu" alt=""/>
       <caption webpage="bài-viết-mẫu" alt=""/>
     </file>
-    <file name="slideside-u55158-r-fr.png" crc="3979170341" ref="phone>index:phone>bài-viết-mẫu:index"/>
+    <file name="slideside-u55158-r-fr.png" crc="3979170341" ref="phone>index:phone>bài-viết-mẫu"/>
     <file name="xckicon-u55110-fr.png" crc="3947703721" ref="phone>index:phone>xem-chữ-ký:phone>404"/>
     <file name="slideside2.png" crc="4165873377" ref="phone>index:index">
       <caption webpage="index" alt=""/>
@@ -93,13 +70,8 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
-    <file name="slideside2-u55032-r-fr.png" crc="3904772646" ref="phone>index:index"/>
+    <file name="slideside2-u55032-r-fr.png" crc="3904772646" ref="phone>index"/>
     <file name="bai 6.jpg" crc="63533904" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
@@ -125,22 +97,39 @@
     <file name="twitter.png" crc="3893893301" ref="phone>index:phone>xem-chữ-ký:phone>404:phone>bài-viết-mẫu">
       <caption webpage="404" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="xem-chữ-ký" alt=""/>
       <caption webpage="bài-viết-mẫu" alt=""/>
+      <caption webpage="xem-chữ-ký" alt=""/>
     </file>
     <file name="ytube-u54946-fr.png" crc="4095249335" ref="phone>index:phone>xem-chữ-ký:phone>404:phone>bài-viết-mẫu"/>
     <file name="email.png" crc="4040469459" ref="phone>index:phone>xem-chữ-ký:phone>404:phone>bài-viết-mẫu">
       <caption webpage="404" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="xem-chữ-ký" alt=""/>
       <caption webpage="bài-viết-mẫu" alt=""/>
+      <caption webpage="xem-chữ-ký" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="phone>index:phone>xem-chữ-ký:phone>404:phone>bài-viết-mẫu:index:trang-cá-nhân:thanh-toán"/>
     <file name="edit icon.png" crc="4057983589" ref="phone>xem-chữ-ký:xem-chữ-ký">
       <caption webpage="xem-chữ-ký" alt=""/>
-      <caption webpage="xem-chữ-ký" alt=""/>
     </file>
     <file name="default404-u71535-fr.jpg" crc="4002128935" ref="phone>404"/>
+    <file name="arrowmenudown.png" crc="262559161" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bai 6-u51771-fr.jpg" crc="186737622" ref="index"/>
+    <file name="tap20-u51772-fr.jpg" crc="11467828" ref="index"/>
+    <file name="tap14-u51773-fr.jpg" crc="3950302831" ref="index"/>
+    <file name="bai 5-u51778-fr.jpg" crc="141036803" ref="index"/>
+    <file name="bai3-u51774-fr.jpg" crc="3877586210" ref="index"/>
+    <file name="tap17-u51779-fr.jpg" crc="429617630" ref="index"/>
+    <file name="xckicon.png" crc="353811460" ref="index:xem-chữ-ký:trang-cá-nhân">
+      <caption webpage="index" alt=""/>
+      <caption webpage="trang-cá-nhân" alt=""/>
+      <caption webpage="xem-chữ-ký" alt=""/>
+    </file>
+    <file name="helloquence-51716-u96681-fr.jpg" crc="4034234586" ref="index:xem-chữ-ký"/>
+    <file name="20116918_1410547052325600_4587555701590966734_o-u96692-fr.jpg" crc="4277214732" ref="index:xem-chữ-ký"/>
     <file name="fbround.png" crc="4058728460" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -153,11 +142,6 @@
     <file name="emailround.png" crc="4115146548" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="registericon.png" crc="55097755" ref="index:trang-cá-nhân:thanh-toán">
-      <caption webpage="index" alt=""/>
-      <caption webpage="trang-cá-nhân" alt=""/>
-      <caption webpage="thanh-toán" alt=""/>
-    </file>
     <file name="adsquare.jpg" crc="4255796540" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -166,35 +150,6 @@
     </file>
     <file name="squaread3.jpg" crc="68110876" ref="index">
       <caption webpage="index" alt=""/>
-    </file>
-    <file name="bai 6-u51771-fr.jpg" crc="186737622" ref="index"/>
-    <file name="tap20-u51772-fr.jpg" crc="11467828" ref="index"/>
-    <file name="tap14-u51773-fr.jpg" crc="3950302831" ref="index"/>
-    <file name="bai 5-u51778-fr.jpg" crc="141036803" ref="index"/>
-    <file name="bai3-u51774-fr.jpg" crc="3877586210" ref="index"/>
-    <file name="tap17-u51779-fr.jpg" crc="429617630" ref="index"/>
-    <file name="xckicon.png" crc="353811460" ref="index:xem-chữ-ký:trang-cá-nhân">
-      <caption webpage="index" alt=""/>
-      <caption webpage="xem-chữ-ký" alt=""/>
-      <caption webpage="trang-cá-nhân" alt=""/>
-    </file>
-    <file name="helloquence-51716-u96681-fr.jpg" crc="4034234586" ref="index:xem-chữ-ký"/>
-    <file name="20116918_1410547052325600_4587555701590966734_o-u96692-fr.jpg" crc="4277214732" ref="index:xem-chữ-ký"/>
-    <file name="thumb1-u52578-fr.jpg" crc="3930049697" ref="index:bài-viết-mẫu"/>
-    <file name="thumb2-u52579-fr.jpg" crc="345390618" ref="index:bài-viết-mẫu"/>
-    <file name="joshua-newton-143838.jpg" crc="3920017389" ref="index:bài-viết-mẫu">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="bài-viết-mẫu" alt=""/>
-      <caption webpage="bài-viết-mẫu" alt=""/>
-    </file>
-    <file name="thumb1.jpg" crc="315173451" ref="index:bài-viết-mẫu">
-      <caption webpage="index" alt=""/>
-      <caption webpage="bài-viết-mẫu" alt=""/>
-    </file>
-    <file name="thumb2.jpg" crc="3783455442" ref="index:bài-viết-mẫu">
-      <caption webpage="index" alt=""/>
-      <caption webpage="bài-viết-mẫu" alt=""/>
     </file>
     <file name="bookimg-u51810-fr.jpg" crc="254229747" ref="index"/>
     <file name="thinkicon-u51770-fr.png" crc="4110502276" ref="index"/>
@@ -208,10 +163,10 @@
     <file name="concrete4.jpg" crc="3974568584" ref="index:404:xem-chữ-ký:bài-viết-mẫu:trang-cá-nhân:thanh-toán">
       <caption webpage="404" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="xem-chữ-ký" alt=""/>
-      <caption webpage="thanh-toán" alt=""/>
       <caption webpage="trang-cá-nhân" alt=""/>
       <caption webpage="bài-viết-mẫu" alt=""/>
+      <caption webpage="thanh-toán" alt=""/>
+      <caption webpage="xem-chữ-ký" alt=""/>
     </file>
     <file name="default404.jpg" crc="456341713" ref="404">
       <caption webpage="404" alt=""/>
@@ -220,6 +175,18 @@
     <file name="undo.jpg" crc="3954275872" ref="xem-chữ-ký">
       <caption webpage="xem-chữ-ký" alt=""/>
       <caption webpage="xem-chữ-ký" alt=""/>
+    </file>
+    <file name="thumb1-u96795-fr.jpg" crc="3930049697" ref="bài-viết-mẫu"/>
+    <file name="thumb2-u96796-fr.jpg" crc="345390618" ref="bài-viết-mẫu"/>
+    <file name="joshua-newton-143838.jpg" crc="3920017389" ref="bài-viết-mẫu">
+      <caption webpage="bài-viết-mẫu" alt=""/>
+      <caption webpage="bài-viết-mẫu" alt=""/>
+    </file>
+    <file name="thumb1.jpg" crc="315173451" ref="bài-viết-mẫu">
+      <caption webpage="bài-viết-mẫu" alt=""/>
+    </file>
+    <file name="thumb2.jpg" crc="3783455442" ref="bài-viết-mẫu">
+      <caption webpage="bài-viết-mẫu" alt=""/>
     </file>
     <file name="728x90.jpg" crc="416329148" ref="bài-viết-mẫu">
       <caption webpage="bài-viết-mẫu" alt=""/>
@@ -248,7 +215,6 @@
     <file name="helloquence-51716.jpg" crc="4272913448" ref="trang-cá-nhân">
       <caption webpage="trang-cá-nhân" alt=""/>
     </file>
-    <file name="usericon-u97814-fr.png" crc="14039629" ref="trang-cá-nhân:thanh-toán"/>
     <file name="write2.jpg" crc="3898873804" ref="thanh-toán">
       <caption webpage="thanh-toán" alt=""/>
     </file>
@@ -273,24 +239,26 @@
     <file name="write1.jpg" crc="3983610830" ref="thanh-toán">
       <caption webpage="thanh-toán" alt=""/>
     </file>
+    <file name="slideside2-u52645-r-fr.png" crc="3904772646" ref="index"/>
+    <file name="slideside-u52723-r-fr.png" crc="3979170341" ref="index"/>
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="master_a-master.css" crc="3914124636" ref="phone>404:phone>xem-chữ-ký:phone>bài-viết-mẫu:phone>index"/>
-      <file name="404.css" crc="4077778564" ref="phone>404"/>
-      <file name="xem-ch_-k_.css" crc="4068024932" ref="phone>xem-chữ-ký"/>
+      <file name="master_a-master.css" crc="3914124636" ref="phone>bài-viết-mẫu:phone>xem-chữ-ký:phone>index:phone>404"/>
       <file name="b_i-vi_t-m_u.css" crc="216301766" ref="phone>bài-viết-mẫu"/>
+      <file name="xem-ch_-k_.css" crc="4068024932" ref="phone>xem-chữ-ký"/>
       <file name="index.css" crc="119068455" ref="phone>index"/>
+      <file name="404.css" crc="4077778564" ref="phone>404"/>
     </folder>
-    <file name="index.html" crc="3898349775" seo="true" mt="1505556518365" redirect="true"/>
-    <file name="xem-chữ-ký.html" crc="360049293" seo="true" mt="1505556518369" redirect="true"/>
-    <file name="404.html" crc="161942469" seo="true" mt="1505549640878" redirect="true"/>
-    <file name="bài-viết-mẫu.html" crc="66437627" seo="true" mt="1505531126924" redirect="true"/>
+    <file name="index.html" crc="181486787" seo="true" mt="1505556518365" redirect="true"/>
+    <file name="xem-chữ-ký.html" crc="3822671452" seo="true" mt="1505556518369" redirect="true"/>
+    <file name="404.html" crc="4238663351" seo="true" mt="1505549640878" redirect="true"/>
+    <file name="bài-viết-mẫu.html" crc="336040519" seo="true" mt="1505531126924" redirect="true"/>
   </folder>
-  <file name="index.html" crc="3803307206" seo="true" mt="1505557278393" redirect="true"/>
-  <file name="404.html" crc="3970007635" seo="true" mt="1505557024401" redirect="true"/>
-  <file name="xem-chữ-ký.html" crc="4263067732" seo="true" mt="1505557278395" redirect="true"/>
-  <file name="bài-viết-mẫu.html" crc="3807659642" seo="true" mt="1505557024401" redirect="true"/>
-  <file name="trang-cá-nhân.html" crc="3867248650" seo="true" mt="1505557278400" redirect="true"/>
-  <file name="thanh-toán.html" crc="4129449886" seo="true" mt="1505557278767" redirect="true"/>
+  <file name="index.html" crc="47719516" seo="true" mt="1505712150772" redirect="true"/>
+  <file name="404.html" crc="513112398" seo="true" mt="1505712150772" redirect="true"/>
+  <file name="xem-chữ-ký.html" crc="4021536916" seo="true" mt="1505712150772" redirect="true"/>
+  <file name="bài-viết-mẫu.html" crc="86244188" seo="true" mt="1505712150772" redirect="true"/>
+  <file name="trang-cá-nhân.html" crc="4197932830" seo="true" mt="1505712150772" redirect="true"/>
+  <file name="thanh-toán.html" crc="326142230" seo="true" mt="1505712150772" redirect="true"/>
 </manifest>
